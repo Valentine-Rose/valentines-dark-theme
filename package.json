@@ -1,0 +1,21 @@
+{
+  "name": "valentines-dark-theme",
+  "displayName": "Valentines Dark Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Valentines Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Valentines Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}

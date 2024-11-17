@@ -1,0 +1,67 @@
+{
+	"name": "Valentine's Dark Theme",
+	"type": "dark",
+	"colors": {
+	  "editor.background": "#2A2A2A",               // Slightly lighter background to improve readability
+	  "editor.foreground": "#F2D1D1",               // Lighter, soft pink text for better contrast
+	  "editorCursor.foreground": "#FF4F6D",         // Stronger pink cursor to improve visibility
+	  "editor.lineHighlightBackground": "#3D2359",  // Deeper purple for line highlight with contrast
+	  "editor.selectionBackground": "#F0A7B1",      // Light rose pink for selections
+	  "editor.selectionForeground": "#FFFFFF",      // White text on selected areas for visibility
+	  "editorIndentGuide.background1": "#7F2B52",    // Muted purple for indent guides
+	  "activityBar.background": "#5C2A4D",          // Darker burgundy for activity bar
+	  "sideBar.background": "#3A2E47",              // Dark purple sidebar for a consistent feel
+	  "statusBar.background": "#9F4B6E",            // Lighter muted red for status bar
+	  "titleBar.activeBackground": "#5C1241",       // Deep rose for title bar background
+	  "titleBar.activeForeground": "#F5B5D1",       // Soft pastel pink for title bar text
+	  "button.background": "#D63D68",               // Rose pink button background
+	  "button.foreground": "#FFFFFF",               // White button text
+	  "input.background": "#4E3B56",                // Darker background for input fields
+	  "input.foreground": "#F2D1D1",                // Soft pink input text for visibility
+	  "dropdown.background": "#422148",             // Deep purple dropdown background
+	  "dropdown.foreground": "#F2D1D1",             // Soft pink for dropdown text
+	  "editorGroupHeader.tabsBackground": "#2A1F3E"  // Dark purple for editor tab group background
+	},
+	"tokenColors": [
+	  {
+		"scope": "comment",
+		"settings": {
+		  "foreground": "#8A7F94",             // Light muted lavender for comments
+		  "fontStyle": "italic"
+		}
+	  },
+	  {
+		"scope": "keyword",
+		"settings": {
+		  "foreground": "#FF607F",             // Soft pinkish-red for keywords
+		  "fontStyle": "bold"
+		}
+	  },
+	  {
+		"scope": "string",
+		"settings": {
+		  "foreground": "#F07B8A"              // Light rose-red for string literals
+		}
+	  },
+	  {
+		"scope": "variable",
+		"settings": {
+		  "foreground": "#F2A0B5"              // Soft light pink for variables
+		}
+	  },
+	  {
+		"scope": "entity.name.function",
+		"settings": {
+		  "foreground": "#F5A9C8",             // Light pink for function names
+		  "fontStyle": "bold"
+		}
+	  },
+	  {
+		"scope": "constant.numeric",
+		"settings": {
+		  "foreground": "#F77C7F"              // Soft coral pink for numeric constants
+		}
+	  }
+	]
+  }
+  
