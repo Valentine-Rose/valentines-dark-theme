@@ -13,7 +13,7 @@ A cozy, dark theme for Visual Studio Code with Valentine's Day vibes. Soft pinks
 
 ### Install via VSIX
 
-1. Download the `.vsix` package from the [Releases](https://github.com/your-username/valentines-dark-theme/releases) page.
+1. Download the `.vsix` package from the [Releases](https://github.com/Valentine-Rose/valentines-dark-theme/releases) page.
 2. Open Visual Studio Code.
 3. Open the Extensions view (`Ctrl + Shift + X`).
 4. Click on the **three dots** in the top-right corner and select **Install from VSIX**.
